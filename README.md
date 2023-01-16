@@ -9,7 +9,7 @@ This method uses the Gerstner Waves ti animate water a water surface. Before thi
 <img src="https://thumbs.gfycat.com/FineYoungErne-max-1mb.gif" width="250">
 
 ### Gerstner Wave Implementation
-<img src="hhttps://thumbs.gfycat.com/BitterGoldenHalicore-max-1mb.gif" width="250">
+<img src="https://thumbs.gfycat.com/BitterGoldenHalicore-max-1mb.gif" width="250">
 
 
 
