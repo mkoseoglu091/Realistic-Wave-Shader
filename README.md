@@ -12,10 +12,11 @@ Sine waves are very rigid and predictable. They are not ideal for water surfaces
 ### Gerstner Wave Implementation
 <img src="https://thumbs.gfycat.com/BitterGoldenHalicore-max-1mb.gif" width="250">
 Gerstner waves are much better but they still do not look realistic enough... Which brings us to the next step.
-<br>
+
+### Multiple Waves
 We can add multiple gerstner waves on top of one another, with a different direction, steepness and wavelength. This produces very interesting combinations. Playing around with the parameters can create very realistic results that can be used to simulate large bodies of water. Below is an example where 3 waves are used, creating a very interesting water surface.
 <br>
 <img src="https://thumbs.gfycat.com/ThisFatherlyBrontosaurus-max-1mb.gif" width="250">
 
-# Transparency and Refraction
+### Transparency and Refraction
 This shader also has parameters for transparency, refraction and underwater fog. These can be played around with to create even better looking transparent water surfaces.
