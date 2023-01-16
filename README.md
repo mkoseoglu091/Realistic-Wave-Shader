@@ -5,7 +5,7 @@ This method uses the Gerstner Waves ti animate water a water surface. Before thi
 
 <img src="https://user-images.githubusercontent.com/97642386/212574854-1bbaea5a-ee7e-49e2-bf78-6269e7404846.png" width="250">
 
-<img src="https://thumbs.gfycat.com/BitterGoldenHalicore-mobile.mp4" width="250">
+<img src="https://thumbs.gfycat.com/FineYoungErne-max-1mb.gif" width="250">
 
 
 
