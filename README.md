@@ -7,13 +7,16 @@ This method uses the Gerstner Waves ti animate water a water surface. Before thi
 
 ### Sine Wave Implementation
 Sine waves are very rigid and predictable. They are not ideal for water surfaces
+<br>
 <img src="https://thumbs.gfycat.com/FineYoungErne-max-1mb.gif" width="250">
 
 ### Gerstner Wave Implementation
 Gerstner waves are much better but they still do not look realistic enough... Which brings us to the next step.
+<br>
 <img src="https://thumbs.gfycat.com/BitterGoldenHalicore-max-1mb.gif" width="250">
 
 We can add multiple gerstner waves on top of one another, with different direction, steepness and wavelength. This produces very interesting combinations. Playing around with the parameters can create very realistic results that can be used to simulate large bodies of water. Below is an example where 3 waves are used creating a very interesting water surface.
+<br>
 <img src="https://thumbs.gfycat.com/ThisFatherlyBrontosaurus-max-1mb.gif" width="250">
 
 
